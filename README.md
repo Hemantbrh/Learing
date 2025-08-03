@@ -1,5 +1,5 @@
-## Learing
-# Chrome Extension Automation Python
+# Learing
+## Chrome Extension Automation Python
 
 Python और Selenium की मदद से आप Chrome और उसके एक्सटेंशन्स (जैसे Metamask, Phantom, Sui Wallet) को ऑटोमेट कर सकते हैं, #
 
