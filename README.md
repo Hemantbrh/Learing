@@ -17,88 +17,91 @@
 
 • Functions & Modules
 
- ## ⏱ समय: 2-3 दिन
+• ⏱ समय: 2-3 दिन
 
 
 
 ## 📘 Chapter 2: Selenium Basics
-## Selenium क्या है?
+• Selenium क्या है?
 
-ChromeDriver क्या होता है?
+• ChromeDriver क्या होता है?
 
-WebDriver Setup (Python + Chrome)
+• WebDriver Setup (Python + Chrome)
 
-Website open करना (driver.get())
+• Website open करना (driver.get())
 
-Elements find करना (find_element_by...)
+• Elements find करना (find_element_by...)
 
-Click, Input, Submit Actions
+• Click, Input, Submit Actions
 
-## ⏱ समय: 3-4 दिन
-
-
-
+• ⏱ समय: 3-4 दिन
 
 ## ✅ Phase 2: Advanced Selenium + Browser Profile + Extension Handling
+
 ## 📘 Chapter 3: Chrome Profile और Extension के साथ Selenium
-Custom Chrome Profile को Selenium में लोड करना
 
-Existing Chrome Profile से ऑटोमेशन (MetaMask login के लिए जरूरी)
+• Custom Chrome Profile को Selenium में लोड करना
 
-Chrome Extensions को .crx या .zip फ़ाइल से Selenium में लोड करना
+• Existing Chrome Profile से ऑटोमेशन (MetaMask login के लिए जरूरी)
 
-## ⏱ समय: 3-4 दिन
+• Chrome Extensions को .crx या .zip फ़ाइल से Selenium में लोड करना
 
-## 📌 उदाहरण: Metamask का .crx एक्सटेंशन Selenium में लोड करके account import करना
+• ⏱ समय: 3-4 दिन
+
+• 📌 उदाहरण: Metamask का .crx एक्सटेंशन Selenium में लोड करके account import करना
 
 ## 📘 Chapter 4: Multiple Tabs, Windows और Alerts Handle करना
-## New Tab Open & Switch
+• New Tab Open & Switch
 
-Popup Window / Alert Accept-Dismiss
+• Popup Window / Alert Accept-Dismiss
 
-Browser Back, Forward, Refresh
+• Browser Back, Forward, Refresh
 
-## ⏱ समय: 1-2 दिन
+• ⏱ समय: 1-2 दिन
 
 ## ✅ Phase 3: Extension Specific Automation (Metamask, Phantom, Sui etc.)
-## 📘 Chapter 5: Metamask Automation (Hard Part)
-Metamask Install via Selenium
 
-Seed Phrase Import करना
+## 📘 Chapter 5: Metamask Automation (Hard Part).
 
-Password Set करना
+• Metamask Install via Selenium
 
-Dapp (Website) से Metamask Connect करवाना
+• Seed Phrase Import करना
 
-Transaction Approve करना
+• Password Set करना
 
-## 📌 यह थोड़ा tricky होता है क्योंकि Metamask एक Shadow DOM इस्तेमाल करता है जिसे पकड़ना कठिन होता है।
+• Dapp (Website) से Metamask Connect करवाना
 
-## ⏱ समय: 4-5 दिन (practice के अनुसार)
+• Transaction Approve करना
+
+• 📌 यह थोड़ा tricky होता है क्योंकि Metamask एक Shadow DOM इस्तेमाल करता है जिसे पकड़ना कठिन होता है।
+
+• ⏱ समय: 4-5 दिन (practice के अनुसार)
 
 ## 📘 Chapter 6: Phantom Wallet, Sui Wallet Automation
-Phantom भी Shadow DOM यूज़ करता है
 
-Phantom & Sui को Import करना
+• Phantom भी Shadow DOM यूज़ करता है
 
-Site से Connect & Approve
+• Phantom & Sui को Import करना
 
-## ⏱ समय: 2-3 दिन (अगर Metamask समझ गए तो बाकी आसान हैं)
+• Site से Connect & Approve
 
+• ⏱ समय: 2-3 दिन (अगर Metamask समझ गए तो बाकी आसान हैं)
 
 ## ✅ Phase 4: Project Level Task Automation
+
 ## 📘 Chapter 7: Testnet / Airdrop Tasks Automation
-Faucet से Token लेना
 
-Wallet Connect करना (Auto)
+• Faucet से Token लेना
 
-DEX पर Swap करना
+• Wallet Connect करना (Auto)
 
-Twitter/Discord Join Tasks (with Selenium + APIs)
+• DEX पर Swap करना
 
-Logs Save करना
+• Twitter/Discord Join Tasks (with Selenium + APIs)
 
-## ⏱ समय: 5-7 दिन
+• Logs Save करना
+
+• ⏱ समय: 5-7 दिन
 
 ✅ Extra Tools जो सीखना फायदेमंद रहेगा:
 | Tool                             | Use                                  
